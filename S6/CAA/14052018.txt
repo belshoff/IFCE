@@ -1,0 +1,39 @@
+Problema:
+1- Entrada;
+2- Processamento;
+3- Saída.
+ 
+Instância: Conjunto de dados de entradas.
+
+À definir:
+- Tamanho da instância(entrada): Quantidade de dados utilizada para representa-la.
+
+void ordenar(int[] A, int n){
+    # Encontrar o menor elemento e fazer swap com o da menor posicao não ordenada.
+    int pos_ord = 0;
+    do {
+        int menor = A[pos_ord], pos = pos_ord;
+        int swap;
+        for(int i = menor_posicao; i < n; i++) {
+            if(A[i] < menor) {
+                menor = A[i];
+                pos = i;
+            }
+        }
+        swap = A[pos_ord];
+        A[pos_ord++] = menor;
+        A[pos] = swap;
+    }while(pos_ord != n)
+}
+
+* Avaliar Tempo
+
+# Modelo RAM
+Instruções relevantes:
+- Aritimetica;
+- Comparação;
+- Atribuição.
+
+* Análise Assimtótica.
+- Pior caso.
+- O(* fulano *)
