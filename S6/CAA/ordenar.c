@@ -1,13 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// void swap(int* from, int* to) {
-    // Ta bugado
-//     int swap;
-//     swap = to*;
-//     to* = from*;
-//     from* = swap;
-// }
+void swap(int* from, int* to) {
+    int aux = *to;
+    *to = *from;
+    *from = aux;
+}
 
 void ordenar(int A[], int n){
     // Encontrar o menor elemento e fazer swap com o da menor posicao não ordenada.
@@ -21,7 +19,7 @@ void ordenar(int A[], int n){
                 pos = i;
             }
         }
-        // swap(&A[pos_ord], &menor);
+        // swap(&A[pos_ord++], &menor);
         int swap;
         swap = A[pos_ord];
         A[pos_ord++] = menor;
