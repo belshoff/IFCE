@@ -1,0 +1,40 @@
+1°) Um processo de desenvolvimento de software pode ser visto como um conjunto
+de atividades organizadas, usadas para definir, desenvolver,
+testar e manter um software. A seguir, alguns objetivos
+do processo de desenvolvimento:
+
+- Definição das atividades a serem executadas;
+- Quando determinada atividade deve ser executada;
+- Pessoa ou grupo a executar tais atividades;
+- Padronização no processo de desenvolvimento.
+
+2°)
+- Levantamento de requisitos;
+- Análise de Requisitos;
+- Projeto;
+- Implementação;
+- Testes;
+- Implantação.
+
+3°) É onde os desenvolvedores fazem um estudo detalhado
+dos dados levantados na atividade anterior.
+De onde são construídos modelos a fim de representar
+o sistema de software a ser desenvolvido.
+
+- Compreensão do domínio;
+- Coleta de requisitos;
+- Classificação;
+- Resolução de conflitos;
+- Definição das prioridades;
+- Verificação de requisitos
+
+4°) Utilizar as necessidades dos clientes,
+depois de compreendido o problema,
+para resolução do problema solicitado.
+
+5°) Requisito não funcional:
+ É aquele que descreve não o que o sistema fará,
+mas como ele fará.
+Requisito funcional define uma função do sistema.
+
+6°) 
