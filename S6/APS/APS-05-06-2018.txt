@@ -38,3 +38,47 @@ mas como ele fará.
 Requisito funcional define uma função do sistema.
 
 6°) 
+- As opiniões do entrevistado
+- O estado do sistema atual (se existir)
+- Objetivos pessoais e organizacionais
+- Procedimentos informais
+
+7°) Documentar Requisitos:
+Identificar, detalhar e documentar o conjunto de
+requisitos funcionais.
+
+Validar requisitos:
+Assegurar que os requisitos serão atendidos.
+
+8°) - Fase da etapa do ciclo de vida cuja atividade é a
+construção de modelos do sistema.
+- Quebra um sistema em componentes;
+- Estudar como esses componentes interagem;
+- Entender como esse sistema funciona.
+
+9°)
+“Paralisia da Análise
+”:
+– Analistas passam muito tempo construíndo modelos;
+– Na Prática: Desenvolvedores construíndo o sistema
+sem antes terem definido completamente o
+problema;
+– Os modelos devem ser validados e verificados na fase
+de análise.
+
+Usuário validou!
+– Entendeu o modelo;
+– O modelo reflete suas necessidades.
+
+Usuário NÃO validou!
+– Não entendeu o modelo;
+– Existe diferentes interpretações (ambiguidades e
+contradições) entre analistas e usuários;
+– Pode gerar grande impacto em prazos e custos para
+um projeto de software se identificado em etapas
+posteriores.
+
+10°) Identificar e modelar os objetos do mundo real que
+são processados pela aplicação;
+
+11°) Modelo de Pressman e o de Farley.
