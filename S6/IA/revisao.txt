@@ -1,0 +1,58 @@
+ 01°) É fazer softwares tomarem decisões lógicas, baseadas no aprendizado adiquirido com a análise de dados.
+
+02°)
+- Diagnóstico de pacientes com câncer;
+- Desenvolvimento de robôs criativos;
+- Assistente pessoal;
+- Robô advogado;
+- Robotização;
+- Chatbots;
+- Watson, computação cognitiva;
+- Gestão de empresas;
+- Preços dinâmicos;
+- Atendimento ao cliente.
+
+03°) O Teste de Turing testa a capacidade de uma máquina exibir comportamento inteligente equivalente a um ser humano.
+
+04°) Agente inteligente é um software que percebe seu ambiente através de sensores e age sobre o ambiente através de atuadores.
+
+05°) A função que implementa um agente inteligente.
+
+06°) Programa agente é o software que executa as ações de um agente inteligente.
+
+07°) É um agente q só reage a partir da percepção atual dele.
+
+08°) mantên o estado interno(modelo) para aspéctos não percebidos e utiliza percepções passadas como base pra tomada de decisão.
+
+09°) PEAS: Componentes de onde se extraem as especificações do agente.
+P-erformance;
+E-nviroment;
+A-ctuators;
+S-ensors.
+
+PAGE: Componentes de onde se extraem as especificações do ambiente.
+P-erceptions;
+A-ctions;
+G-oals;
+E-nviroment.
+
+10°) Agente Racional é um agente inteligente capaz de agir de forma a alcançar resultados otimizados.
+
+Agente Autônomo toma suas decisões baseado nas suas próprias percepções.
+
+11°) É um agente que, para cada sequência de percepções possíveis, ele atuar da forma esperada para a maximização da sua medida de desempenho.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
