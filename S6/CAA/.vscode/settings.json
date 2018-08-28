@@ -4,4 +4,5 @@
         "cstdio": "cpp"
     },
     "python.linting.pylintEnabled": false,
+    "python.pythonPath": "/usr/bin/python3.5",
 }
