@@ -1,0 +1,44 @@
+Direito Digital
+
+Portaria interministerial n° 147/95 Cria o CGI -> Ministério das Cominicações E Ministério da Ciência e Tecnologia
+-> 9 Menbros
+	-> Nomeação -> 2 anos (formação eclética)
+-> 8 Cmpetências
+
+Obs: Delibera sobre matérias em Curso no Congresso Nacional referentes s Intertet.
+
+Aspecto "ipinitivo" e regulatório (exerce certo grau de regulamentação)
+
+Ex: Criação de site -> Necessidade de "domínio"(protocolo de internet traduz-se em nomes: "nomes de domínio"
+-> Solicitação ao CGI para pautar o acesso ao site)
+
+CGI -> Não controla a Internet, mas o uso dos instrumentos de acesso.
+
+O CGI realiza o registro e operacionaliza a comercialização do dompinio.
+
+
+Quem exerce o controle?
+
+a) Norma 4/1995 (ANATEL)
+-> Regulamenta o uso da rede pública de telecominucação para acesso a internet.
+
+
+12037 -> Lei Carolina dickman
+? -> Marco Civil da Internet
+12965 -> ?
+12737 -> ?
+
+2004 - 
+Decreto 5296/2004
+
+Regulamenta as leis:
+10048/2000 (Não importa)
+10098/2000 (Importa) Acessibilidade digital
+
+Proteção do banco de dados:
+
+Pricipio da autodeterminação informacional.
+
+Projeto de lei:
+4060/2012
+5276/2016
