@@ -1,0 +1,53 @@
+Direito Digital
+
+Acessibilidade digital
+Lei 10098/2000
+-> Decreto 5296/2004
+
+Fundamentos e Normas legais:
+
+Naturaza jurídica do Direito Digital -> Autonomia
+
+a) Interdisciplinariedade
+
+b) Norma Matriz - CRFB/88
+	art. 5° Direitos e Garantias fundamentais
+
+c) Norma Refernêcia: Marco regulatróio - Marco Civil - lei 12965/2014
+
+d) Tecnologia => Digital
+
+e) Marco Civil - 32 artigos (5 captuílos)
+
+Clausulas de garantias
+{
+	Acesso a internet
+	Neutralidade
+	Instrumentalizados
+	Processos e Procedimentos
+}
+
+Éx:
+Guarda de dados e resgistro de conexao e de acesso às aplicações.
+
+Regime de Responsabilidade Civil Disposiçoes excludentes -> Direitos autorais.
+
+Capitulo I
+{
+	Liberdade de Expressão
+	Inviolabilidade da honra; imagem e etc.
+}
+
+Obs: Economia de Reputação/Consumo Colaborativo/Economia de compartilhamento.
+
+Conceitos -> Art. 5° do Marco Civil
+	internet/ terminal/ IP/
+
+Incisivo VII
+{
+	Funcionalidade
+}
+
+Provedores de aplicação e de conexão
+
+Coleta de dados Pessoais.
